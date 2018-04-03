@@ -1,4 +1,5 @@
 # template
+<<<<<<< HEAD
 
 > 项目模版
 
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+vue项目模版
+>>>>>>> a28e4fdab9dfb1db27da36a53fa407c688b93578
