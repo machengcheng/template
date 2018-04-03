@@ -2,7 +2,7 @@
   "name": "template",
   "version": "1.0.0",
   "description": "项目模版",
-  "author": "chengcheng.ma <chengcheng.ma@yeexun.com>",
+  "author": "machengcheng",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
